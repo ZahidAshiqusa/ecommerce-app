@@ -8,27 +8,23 @@ const Footer = () => {
         <div>
           <img className="mb-5 w-32" src={assets.logo} alt="logo" />
           <p className="w-full md:w-2/3 text-gray-600">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            We Are Glad To See You Here We Hope Positive Response 
+            From You Inshallah We Will Provide Satisfying Results.
           </p>
         </div>
 
         <div>
           <p className="text-xl font-medium mb-5">COMPANY</p>
           <ul className="flex flex-col gap-1 text-gray-600">
-            <li>Home</li>
-            <li>About us</li>
-            <li>Delivery</li>
-            <li>Privacy policy</li>
+            <li>Founder : ADNAN CHOUDHARY</li>
+            <li>Developer , Designer , Website Management : ZAID ASHIQ</li>
           </ul>
         </div>
 
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-1 text-gray-600">
-            <li>+250-784-652-570</li>
+            <li>+92326-1067710</li>
             <li>ad7store.com</li>
           </ul>
         </div>
