@@ -8,11 +8,10 @@ const NewsletterBox = () => {
   return (
     <div className="text-center">
       <p className="text-2xl font-medium text-gray-800">
-        Subscribe now & get 20% off
+        Subscribe now & get notifications for our trending arrivals.
       </p>
       <p className="text-gray-400 mt-3">
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry.
+        Our Customer Satisfaction is Our Main Priority.
       </p>
       <form
         onSubmit={onSubmitHandler}
